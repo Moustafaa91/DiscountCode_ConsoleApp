@@ -29,8 +29,8 @@ The backend WebSocket hub is hosted at: `https://discountcode-be.onrender.com/di
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/DiscountCodeConsoleApp.git
-cd DiscountCodeConsoleApp
+git clone https://github.com/Moustafaa91/DiscountCode_ConsoleApp.git
+cd DiscountCode_ConsoleApp
 ```
 
 ### Install Required Packages
@@ -79,7 +79,7 @@ Choose an action:
    - Displays whether the code was successfully used.
 
 4. **Get Used Codes**:
-   - Retrieves a list of all used discount codes, including their usage timestamps.
+   - Retrieves a list of all used discount codes.
 
 5. **Get Unused Codes**:
    - Retrieves a list of all unused discount codes.
